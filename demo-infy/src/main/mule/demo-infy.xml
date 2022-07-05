@@ -9,6 +9,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	</http:listener-config>
 	<flow name="demo-infyFlow" doc:id="8360f162-d3f6-4c14-8a75-b34cdb7f4c73" >
 		<http:listener doc:name="Listener" doc:id="d6d4f119-6646-425a-85a9-7e46889fe0a9" config-ref="HTTP_Listener_config" path="/test"/>
-		<set-payload value="this is demo" doc:name="Set Payload" doc:id="8fd15a1d-af41-4a21-bcc3-9afbcf1f7b0b" />
+		<set-payload value="this is demo and not the changes are to be deployed" doc:name="Set Payload" doc:id="8fd15a1d-af41-4a21-bcc3-9afbcf1f7b0b" />
 	</flow>
 </mule>
