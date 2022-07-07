@@ -99,8 +99,8 @@
 	</pluginRepositories>
 <distributionManagement>
     	<snapshotRepository>
-      	<id>mulerelease</id>
-      	<name>mulerelease</name>
+      	<id>mule-repo</id>
+      	<name>mule-repo</name>
       	<url>http://localhost:8085/repository/mule-repo/</url>
     	</snapshotRepository>
  </distributionManagement>
