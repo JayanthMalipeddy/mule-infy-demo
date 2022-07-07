@@ -33,13 +33,13 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<username>username</username>
-						<password>Password</password>
+						<username>jayanth1malipeddy2</username>
+						<password>JaY@4546</password>
 						<environment>Sandbox</environment>
-						<muleVersion>4.3.0</muleVersion>
+						<muleVersion>4.4.0</muleVersion>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>mulebuild</applicationName>
+						<applicationName>demo-infy-07</applicationName>
 						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 </configuration>
