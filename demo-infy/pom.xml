@@ -101,7 +101,7 @@
     	<snapshotRepository>
       	<id>mulerelease</id>
       	<name>mulerelease</name>
-      	<url>http://localhost:8085/repository/mulerelease/</url>
+      	<url>http://localhost:8085/repository/mule-repo/</url>
     	</snapshotRepository>
  </distributionManagement>
 
